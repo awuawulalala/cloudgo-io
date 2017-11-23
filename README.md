@@ -7,7 +7,7 @@
 我使用的negroni为 github.com/urfave/negroni
 
 ##运行main程序，开始监听8080端口:
-![image](https://github.com/awuawulalala/cloudgo-io/tree/master/reslut/1.jpg)
+![image](https://github.com/awuawulalala/cloudgo-io/blob/master/result/1.png)
 
 
 
